@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94b52737-0c73-4e0c-aa58-0e1b0ad6413c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DW-patten-strategy/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-patten-strategy/src/com/dw/pattern/strategy/VehicleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-patten-strategy/src/com/dw/pattern/strategy/VehicleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-patten-strategy/src/com/dw/pattern/strategy/vehicle/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-patten-strategy/src/com/dw/pattern/strategy/vehicle/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-patten-strategy/src/com/dw/pattern/strategy/vehicle/HighSpeedRail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-patten-strategy/src/com/dw/pattern/strategy/vehicle/Travel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-patten-strategy/src/com/dw/pattern/strategy/vehicle/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/lib/asm-3.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/lib/cglib-2.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/cglib/CgLibTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/cglib/CglibDWProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/cglib/DingWei.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/custom/DWClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/custom/DWInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/custom/DWProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/custom/customMeipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/jdkproxy/JDKManProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/jdkproxy/JDKTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/jdkproxy/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/jdkproxy/Psn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/staticed/HuangniuProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/staticed/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/staticed/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/test/mian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/test/pp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dw/pattern/template/dao/MemberDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dw/pattern/template/entity/JdbcTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dw/pattern/template/entity/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dw/pattern/template/entity/RowMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-singleton-prototype/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-singleton-prototype/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-singleton-prototype/src/com/dw/prototype/simple/DeepCloneSun.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-singleton-prototype/src/com/dw/prototype/simple/DeepCloneSun.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-944364624">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="992" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="992" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/template/dao/MemberDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="13" lean-forward="true" selection-start-line="15" selection-start-column="67" selection-end-line="24" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/template/entity/Member.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/template/entity/JdbcTemplate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="950">
+              <caret line="57" column="32" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/template/entity/RowMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>executeQuery</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/dw/pattern/template/dao/a.java" />
+        <option value="$PROJECT_DIR$/src/com/dw/pattern/template/entity/RowMapper.java" />
+        <option value="$PROJECT_DIR$/src/com/dw/pattern/template/entity/Member.java" />
+        <option value="$PROJECT_DIR$/src/com/dw/pattern/template/entity/JdbcTemplate.java" />
+        <option value="$PROJECT_DIR$/src/com/dw/pattern/template/dao/MemberDao.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="2586" />
+    <option name="height" value="1386" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DW-pattern-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DW-pattern-template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DW-pattern-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DW-pattern-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DW-pattern-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DW-pattern-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DW-pattern-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DW-pattern-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DW-pattern-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DW-pattern-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DW-pattern-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542634008732" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DW-Work\DW-pattern-template\src\com\dw\pattern\template\entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="DW-pattern-template" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94b52737-0c73-4e0c-aa58-0e1b0ad6413c" name="Default Changelist" comment="" />
+      <created>1542628537748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542628537748</updated>
+      <workItem from="1542628541457" duration="4712000" />
+      <workItem from="1542677128263" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4786000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2534413" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3291815" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/sql/PreparedStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/template/dao/MemberDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="15" selection-start-column="67" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/template/entity/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/template/entity/JdbcTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="57" column="32" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/template/entity/RowMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
