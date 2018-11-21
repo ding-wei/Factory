@@ -6,7 +6,7 @@ package com.dw.single.hungry;
  */
 public class HungrySingle {
     public static final  HungrySingle hungrySingle = new HungrySingle ();
-    public void showMessage(){
+    public static  final void showMessage(){
         System.out.println("Hello World!");
     }
 

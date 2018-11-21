@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94b52737-0c73-4e0c-aa58-0e1b0ad6413c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DW-patten-strategy/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-patten-strategy/src/com/dw/pattern/strategy/VehicleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-patten-strategy/src/com/dw/pattern/strategy/VehicleType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-patten-strategy/src/com/dw/pattern/strategy/vehicle/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-patten-strategy/src/com/dw/pattern/strategy/vehicle/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-patten-strategy/src/com/dw/pattern/strategy/vehicle/HighSpeedRail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-patten-strategy/src/com/dw/pattern/strategy/vehicle/Travel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-patten-strategy/src/com/dw/pattern/strategy/vehicle/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/lib/asm-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/lib/cglib-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/cglib/CgLibTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/cglib/CglibDWProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/cglib/DingWei.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/custom/DWClassLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/custom/DWInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/custom/DWProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/custom/customMeipo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/jdkproxy/JDKManProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/jdkproxy/JDKTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/jdkproxy/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/jdkproxy/Psn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/staticed/HuangniuProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/staticed/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/staticed/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/test/mian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/test/pp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/pattern/template/dao/MemberDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/pattern/template/entity/JdbcTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/pattern/template/entity/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/pattern/template/entity/RowMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DW-pattern-singleton-prototype/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-singleton-prototype/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DW-pattern-singleton-prototype/src/com/dw/prototype/simple/DeepCloneSun.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-singleton-prototype/src/com/dw/prototype/simple/DeepCloneSun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,10 +15,11 @@
     <session id="-944364624">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -79,11 +46,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/template/dao/MemberDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="13" lean-forward="true" selection-start-line="15" selection-start-column="67" selection-end-line="24" selection-end-column="13" />
+            <state relative-caret-position="171">
+              <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/template/entity/Member.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            <state relative-caret-position="152">
+              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -256,18 +223,19 @@
       <option name="presentableId" value="Default" />
       <updated>1542628537748</updated>
       <workItem from="1542628541457" duration="4712000" />
-      <workItem from="1542677128263" duration="74000" />
+      <workItem from="1542677128263" duration="1556000" />
+      <workItem from="1542763193581" duration="1065000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4786000" />
+    <option name="totallyTimeSpent" value="7333000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2534413" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2574899" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -313,18 +281,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/template/dao/MemberDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="13" lean-forward="true" selection-start-line="15" selection-start-column="67" selection-end-line="24" selection-end-column="13" />
+        <state relative-caret-position="171">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/template/entity/Member.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -342,6 +303,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/template/entity/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
