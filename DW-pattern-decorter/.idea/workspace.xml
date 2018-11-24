@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cfe94f4-9605-4a39-afed-d43d4f3b77aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dw/pattern/decorater/DecoratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dw/pattern/decorater/news/NewCook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dw/pattern/decorater/old/Cook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dw/pattern/decorater/old/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-observe/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-observe/lib/asm-3.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-observe/lib/cglib-2.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-observe/src/com/dw/observe/ab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-observe/src/com/dw/observe/core/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-observe/src/com/dw/observe/core/EventLisenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-observe/src/com/dw/observe/mouse/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-observe/src/com/dw/observe/mouse/MouseEventCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-observe/src/com/dw/observe/mouse/MouseEventType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-observe/src/com/dw/observe/mouse/MouseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-observe/src/com/dw/observe/proxy/MouseProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/lib/asm-3.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/lib/cglib-2.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/core/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/core/EventLisenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/mouse/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/mouse/MouseEventCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/mouse/MouseEventType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/mouse/MouseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/subject/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/subject/ObserverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/subject/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/subject/SubjectEventType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/test/Aa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/test/Ceshi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/core/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/core/EventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/core/EventType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/mouse/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/mouse/MouseEventCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/mouse/MouseEventType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/mouse/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/mouse/cgproxy/CGProxyMouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/mouse/cgproxy/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/subcgproxy/ProxyForObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/subcgproxy/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/subject/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/subject/ObserverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/subject/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/subject/SubjectEventType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-patten-strategy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-patten-strategy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-delegate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-delegate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-delegate/out/production/DW-pattern-delegate/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-delegate/out/production/DW-pattern-delegate/com/dw/delegate/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-delegate/out/production/DW-pattern-delegate/com/dw/delegate/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-delegate/out/production/DW-pattern-delegate/com/dw/delegate/Waiter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-delegate/out/production/DW-pattern-delegate/com/dw/delegate/Waiter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-delegate/src/com/dw/delegate/Waiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-delegate/src/com/dw/delegate/Waiter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-proxy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-proxy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-proxy/out/production/DW-pattern-proxy/com/dw/cglib/CgLibTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-proxy/out/production/DW-pattern-proxy/com/dw/cglib/CgLibTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-proxy/out/production/DW-pattern-proxy/com/dw/cglib/CglibDWProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-proxy/out/production/DW-pattern-proxy/com/dw/cglib/CglibDWProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-proxy/out/production/DW-pattern-proxy/com/dw/test/mian.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-proxy/out/production/DW-pattern-proxy/com/dw/test/mian.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/cglib/CgLibTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/cglib/CgLibTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/cglib/CglibDWProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/cglib/CglibDWProxy.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="431153415">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="4" />
+          <entry key="java" value="164" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="164" />
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/decorater/DecoratorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/decorater/old/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/decorater/old/Cook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/decorater/news/NewCook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+              <folding>
+                <element signature="e#144#145#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/dw/pattern/decorater/old/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/dw/pattern/decorater/old/Cook.java" />
+        <option value="$PROJECT_DIR$/src/com/dw/pattern/decorater/news/NewCook.java" />
+        <option value="$PROJECT_DIR$/src/com/dw/pattern/decorater/DecoratorTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="54" />
+    <option name="y" value="282" />
+    <option name="width" value="2520" />
+    <option name="height" value="1200" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DW-pattern-decorter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DW-pattern-decorter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DW-pattern-decorter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DW-pattern-decorter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DW-pattern-decorter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DW-pattern-decorter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="decorater" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DW-pattern-decorter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DW-pattern-decorter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="decorater" type="462c0819:PsiDirectoryNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DW-pattern-decorter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DW-pattern-decorter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="decorater" type="462c0819:PsiDirectoryNode" />
+              <item name="old" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543071125618" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DecoratorTest">
+    <configuration name="DecoratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dw.pattern.decorater.DecoratorTest" />
+      <module name="DW-pattern-decorator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dw.pattern.decorater.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="DW-pattern-decorator" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="DW-pattern-decorator" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="DW-pattern-decorator" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.DecoratorTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DecoratorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cfe94f4-9605-4a39-afed-d43d4f3b77aa" name="Default Changelist" comment="" />
+      <created>1543070139610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543070139610</updated>
+      <workItem from="1543070143487" duration="982000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="982000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899627" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/decorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/decorater/qq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/decorater/old.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/decorater/old/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/decorater/old/Cook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/decorater/news/NewCook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/decorater/DecoratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

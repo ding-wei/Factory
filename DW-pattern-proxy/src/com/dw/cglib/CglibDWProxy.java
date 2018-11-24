@@ -7,7 +7,7 @@ import net.sf.cglib.proxy.MethodProxy;
 
 import java.lang.reflect.Method;
 
-public class CglibDWProxy  implements MethodInterceptor{
+    public class CglibDWProxy  implements MethodInterceptor{
     public Object getInstance(Class<?> clazz) throws  Exception{
 
         Enhancer enhancer = new Enhancer();
@@ -22,6 +22,8 @@ public class CglibDWProxy  implements MethodInterceptor{
 
     @Override
     public Object intercept(Object o, Method method, Object[] objects, MethodProxy methodProxy) throws Throwable {
+        System.out.println("name"+method.getName());
+        System.out.println("先前只执行");
         methodProxy.invokeSuper(o,objects);
         return null;
     }

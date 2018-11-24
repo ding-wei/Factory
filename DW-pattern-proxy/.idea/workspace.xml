@@ -2,28 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f09740c3-dc0f-4d51-a926-f9ac9ac37aff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/asm-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/cglib-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/cglib/CgLibTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/cglib/CglibDWProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/cglib/DingWei.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/custom/DWClassLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/custom/DWInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/custom/DWProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/custom/customMeipo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/jdkproxy/JDKManProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/jdkproxy/JDKTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/jdkproxy/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/jdkproxy/Psn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/staticed/HuangniuProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/staticed/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/staticed/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/test/mian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/test/pp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DW-pattern-singleton-prototype/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-singleton-prototype/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DW-pattern-singleton-prototype/src/com/dw/prototype/simple/DeepCloneSun.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-singleton-prototype/src/com/dw/prototype/simple/DeepCloneSun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-decorter/src/com/dw/pattern/decorater/qq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-observe/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-observe/lib/asm-3.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-observe/lib/cglib-2.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-observe/src/com/dw/observe/ab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-observe/src/com/dw/observe/core/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-observe/src/com/dw/observe/core/EventLisenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-observe/src/com/dw/observe/mouse/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-observe/src/com/dw/observe/mouse/MouseEventCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-observe/src/com/dw/observe/mouse/MouseEventType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-observe/src/com/dw/observe/mouse/MouseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DW-pattern-observe/src/com/dw/observe/proxy/MouseProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/lib/asm-3.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/lib/cglib-2.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/core/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/core/EventLisenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/mouse/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/mouse/MouseEventCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/mouse/MouseEventType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/mouse/MouseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/subject/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/subject/ObserverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/subject/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/subject/SubjectEventType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/test/Aa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/test/Ceshi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/core/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/core/EventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/core/EventType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/mouse/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/mouse/MouseEventCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/mouse/MouseEventType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/mouse/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/mouse/cgproxy/CGProxyMouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/mouse/cgproxy/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/subcgproxy/ProxyForObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/subcgproxy/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/subject/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/subject/ObserverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/subject/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/subject/SubjectEventType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-patten-strategy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-patten-strategy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-delegate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-delegate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-delegate/out/production/DW-pattern-delegate/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-delegate/out/production/DW-pattern-delegate/com/dw/delegate/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-delegate/out/production/DW-pattern-delegate/com/dw/delegate/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-delegate/out/production/DW-pattern-delegate/com/dw/delegate/Waiter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-delegate/out/production/DW-pattern-delegate/com/dw/delegate/Waiter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-delegate/src/com/dw/delegate/Waiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-delegate/src/com/dw/delegate/Waiter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DW-pattern-proxy/com/dw/cglib/CgLibTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DW-pattern-proxy/com/dw/cglib/CgLibTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DW-pattern-proxy/com/dw/cglib/CglibDWProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DW-pattern-proxy/com/dw/cglib/CglibDWProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DW-pattern-proxy/com/dw/test/mian.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DW-pattern-proxy/com/dw/test/mian.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dw/cglib/CgLibTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dw/cglib/CgLibTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dw/cglib/CglibDWProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dw/cglib/CglibDWProxy.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,26 +67,28 @@
     <session id="-1640927818">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="DWProxy" value="1" />
           <entry key="class" value="3" />
-          <entry key="java" value="27" />
+          <entry key="java" value="31" />
           <entry key="lib" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="JAVA" value="27" />
+          <entry key="JAVA" value="31" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="UML" value="1" />
         </counts>
@@ -63,12 +96,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="13" />
-          <entry key="java" value="928" />
+          <entry key="java" value="990" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="928" />
+          <entry key="JAVA" value="990" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -80,18 +113,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dw/custom/customMeipo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dw/custom/DWProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
+            <state relative-caret-position="270">
               <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
@@ -100,17 +124,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dw/test/pp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="270">
               <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dw/test/mian.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+            <state relative-caret-position="171">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/dw/cglib/CglibDWProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,10 +155,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dw/custom/DWInvocationHandler.java">
+        <entry file="file://$PROJECT_DIR$/src/com/dw/cglib/CgLibTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="228">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -140,9 +176,8 @@
         <entry file="file://$PROJECT_DIR$/src/com/dw/cglib/DingWei.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
               <folding>
-                <element signature="e#72#73#0" expanded="true" />
                 <element signature="e#114#115#0" expanded="true" />
               </folding>
             </state>
@@ -202,8 +237,6 @@
         <option value="$PROJECT_DIR$/src/com/dw/cglib/Man.java" />
         <option value="$PROJECT_DIR$/src/com/dw/cglib/DingWei.java" />
         <option value="$PROJECT_DIR$/src/com/dw/jdkproxy/JDKManProxy.java" />
-        <option value="$PROJECT_DIR$/src/com/dw/cglib/CgLibTest.java" />
-        <option value="$PROJECT_DIR$/src/com/dw/cglib/CglibDWProxy.java" />
         <option value="$PROJECT_DIR$/src/com/dw/jdkproxy/JDKTest.java" />
         <option value="$PROJECT_DIR$/src/com/dw/custom/customMeipo.java" />
         <option value="$PROJECT_DIR$/src/com/dw/custom/DWInvocationHandler.java" />
@@ -211,6 +244,8 @@
         <option value="$PROJECT_DIR$/src/com/dw/test/pp.java" />
         <option value="$PROJECT_DIR$/src/com/dw/custom/DWClassLoader.java" />
         <option value="$PROJECT_DIR$/src/com/dw/test/mian.java" />
+        <option value="$PROJECT_DIR$/src/com/dw/cglib/CgLibTest.java" />
+        <option value="$PROJECT_DIR$/src/com/dw/cglib/CglibDWProxy.java" />
       </list>
     </option>
   </component>
@@ -221,8 +256,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="94" />
-    <option name="y" value="274" />
+    <option name="x" value="54" />
+    <option name="y" value="282" />
     <option name="width" value="2520" />
     <option name="height" value="1200" />
   </component>
@@ -234,17 +269,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="DW-pattern-proxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -261,7 +285,36 @@
               <item name="DW-pattern-proxy" type="58d84e3e:PackageViewProjectNode" />
               <item name="DW-pattern-proxy" type="616d4139:PackageViewModuleNode" />
               <item name="com.dw" type="1f31426a:PackageElementNode" />
+              <item name="cglib" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="DW-pattern-proxy" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DW-pattern-proxy" type="616d4139:PackageViewModuleNode" />
+              <item name="com.dw" type="1f31426a:PackageElementNode" />
+              <item name="custom" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="DW-pattern-proxy" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DW-pattern-proxy" type="616d4139:PackageViewModuleNode" />
+              <item name="com.dw" type="1f31426a:PackageElementNode" />
+              <item name="jdkproxy" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="DW-pattern-proxy" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DW-pattern-proxy" type="616d4139:PackageViewModuleNode" />
+              <item name="com.dw" type="1f31426a:PackageElementNode" />
               <item name="test" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DW-pattern-proxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -272,8 +325,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542608433844" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DW-pattern-singleton-prototype" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543070265942" />
+    <property name="last_opened_file_path" value="D:/Users/Desktop/tom-space-master-70b87a81ae2ba268c3b914d49bf3b2a48b3c3c7b/vip-20180303" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -303,7 +356,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.mian">
+  <component name="RunManager" selected="Application.CgLibTest">
     <configuration name="CgLibTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dw.cglib.CgLibTest" />
       <module name="DW-pattern-proxy" />
@@ -364,9 +417,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CgLibTest" />
         <item itemvalue="Application.mian" />
         <item itemvalue="Application.JDKTest" />
-        <item itemvalue="Application.CgLibTest" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -385,11 +438,16 @@
       <workItem from="1542508901420" duration="3661000" />
       <workItem from="1542543701132" duration="813000" />
       <workItem from="1542590733282" duration="5428000" />
+      <workItem from="1542873093662" duration="1322000" />
+      <workItem from="1542935488844" duration="1381000" />
+      <workItem from="1543041838926" duration="1502000" />
+      <workItem from="1543066737963" duration="651000" />
+      <workItem from="1543067615769" duration="1321000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18256000" />
+    <option name="totallyTimeSpent" value="24433000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
@@ -400,7 +458,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5017794" side_tool="true" weight="0.25101215" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49822065" visible="true" weight="0.254251" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49822065" visible="true" weight="0.2680162" />
       <window_info id="Structure" order="6" sideWeight="0.5017794" side_tool="true" weight="0.25101215" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -408,7 +466,7 @@
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3291815" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.3291815" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32899627" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.3291815" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
@@ -489,16 +547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dw/cglib/CgLibTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -520,23 +568,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dw/cglib/CglibDWProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dw/jdkproxy/JDKTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -544,31 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1596">
           <caret line="138" column="57" selection-start-line="138" selection-start-column="57" selection-end-line="138" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dw/cglib/DingWei.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding>
-            <element signature="e#72#73#0" expanded="true" />
-            <element signature="e#114#115#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/reflect/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12559">
-          <caret line="704" column="54" selection-start-line="704" selection-start-column="54" selection-end-line="704" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/reflect/InvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -593,20 +603,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dw/custom/DWProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dw/test/pp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dw/custom/DWInvocationHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -621,10 +617,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dw/cglib/DingWei.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12559">
+          <caret line="704" column="54" selection-start-line="704" selection-start-column="54" selection-end-line="704" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/reflect/InvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dw/cglib/CgLibTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dw/custom/DWProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dw/test/pp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dw/test/mian.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+        <state relative-caret-position="171">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dw/cglib/CglibDWProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
