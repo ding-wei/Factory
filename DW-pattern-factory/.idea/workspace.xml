@@ -2,7 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e475caeb-005b-42db-9179-cf81b91540a1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/cn/dingwei/Hangjia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/dingwei/factory/MingJiFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DWTestMybatis/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DWTestMybatis/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DWTestMybatis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DWTestMybatis/src/main/java/cn/dw/mybatis/typehandle/TestHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DWTestMybatis/src/main/resources/mybatis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-patten-strategy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-patten-strategy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-decorter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-decorter/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DW-pattern-factory/cn/dingwei/abstractfactory/AbstractXianShiQiFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DW-pattern-factory/cn/dingwei/abstractfactory/AbstractXianShiQiFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DW-pattern-factory/cn/dingwei/abstractfactory/XianShiQiFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DW-pattern-factory/cn/dingwei/abstractfactory/XianShiQiFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DW-pattern-factory/cn/dingwei/abstractfactory/XianShiQiFactoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DW-pattern-factory/cn/dingwei/abstractfactory/XianShiQiFactoryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DW-pattern-factory/cn/dingwei/factory/FactoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DW-pattern-factory/cn/dingwei/factory/FactoryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DW-pattern-factory/cn/dingwei/simple/SimpleFactoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DW-pattern-factory/cn/dingwei/simple/SimpleFactoryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/dingwei/abstractfactory/AbstractXianShiQiFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/dingwei/abstractfactory/AbstractXianShiQiFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/dingwei/abstractfactory/XianShiQiFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/dingwei/abstractfactory/XianShiQiFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/dingwei/abstractfactory/XianShiQiFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/dingwei/abstractfactory/XianShiQiFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/dingwei/factory/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/dingwei/factory/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/dingwei/factory/FactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/dingwei/factory/FactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/dingwei/factory/HpFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/dingwei/factory/HpFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/dingwei/factory/SanXingFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/dingwei/factory/SanXingFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/dingwei/simple/SimpleFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/dingwei/simple/SimpleFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-observe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-observe/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-observe/out/production/DW-pattern-observe/com/dw/observe/mouse/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-observe/out/production/DW-pattern-observe/com/dw/observe/mouse/Mouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-observe/out/production/DW-pattern-observe/com/dw/observe/mouse/MouseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-observe/out/production/DW-pattern-observe/com/dw/observe/mouse/MouseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-observe/src/com/dw/observe/mouse/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-observe/src/com/dw/observe/mouse/Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-observe/src/com/dw/observe/mouse/MouseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-observe/src/com/dw/observe/mouse/MouseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-proxy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-proxy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-singleton-prototype/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-singleton-prototype/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-singleton-prototype/out/production/DW-pattern-singleton-prototype/com/dw/single/hungry/Hungry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-singleton-prototype/out/production/DW-pattern-singleton-prototype/com/dw/single/hungry/HungrySingle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-singleton-prototype/out/production/DW-pattern-singleton-prototype/com/dw/single/hungry/HungrySingle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/main/java/tt/com/core/EventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/core/EventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/main/java/tt/com/mouse/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/mouse/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/main/java/tt/com/subcgproxy/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/subcgproxy/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/dw/observer/core/Event.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/dw/observer/core/EventLisenter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/dw/observer/mouse/Mouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/dw/observer/mouse/MouseEventCallback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/dw/observer/mouse/MouseEventType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/dw/observer/mouse/MouseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/dw/observer/subject/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/dw/observer/subject/ObserverTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/dw/observer/subject/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/dw/observer/subject/SubjectEventType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/dw/observer/test/Aa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/dw/observer/test/Ceshi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/core/Event.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/core/EventListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/core/EventType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/mouse/Mouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/mouse/MouseEventCallback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/mouse/MouseEventType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/mouse/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/mouse/cgproxy/CGProxyMouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/mouse/cgproxy/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/subcgproxy/ProxyForObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/subcgproxy/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/subject/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/subject/ObserverTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/subject/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/subject/SubjectEventType.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,35 +79,45 @@
     <session id="-44339">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="java" value="815" />
+          <entry key="java" value="1108" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="815" />
+          <entry key="JAVA" value="1108" />
           <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="AbstractXianShiQiFactory" value="2" />
+          <entry key="Hp" value="3" />
+          <entry key="HpFactory" value="1" />
+          <entry key="XianShiQiFactoryTest" value="1" />
           <entry key="class" value="1" />
-          <entry key="java" value="17" />
+          <entry key="java" value="66" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="66" />
+          <entry key="UML" value="7" />
         </counts>
       </usages-collector>
     </session>
@@ -51,44 +125,58 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/dingwei/factory/Factory.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/dingwei/abstractfactory/XianShiQiFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="12" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/dingwei/simple/SimpleFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            <state relative-caret-position="475">
+              <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
+                <element signature="e#510#511#0" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
+                <element signature="e#590#591#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/dingwei/Dell.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/dingwei/abstractfactory/AbstractXianShiQiFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/dingwei/Hangjia.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="3" />
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/dingwei/Hp.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/dingwei/factory/Factory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="3" />
-              <folding>
-                <element signature="e#140#141#0" expanded="true" />
-                <element signature="e#170#171#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="247">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/dingwei/abstractfactory/XianShiQiFactoryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="1" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -96,8 +184,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/dingwei/factory/HpFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            <state relative-caret-position="247">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/dingwei/factory/FactoryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="43" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/dingwei/factory/MingJiFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,48 +219,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/dingwei/factory/SanXingFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/dingwei/factory/FactoryTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/dingwei/MingJi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/dingwei/abstractfactory/AbstractXianShiQiFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/dingwei/abstractfactory/XianShiQiFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="5" selection-start-line="5" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-              <folding>
-                <element signature="e#435#436#0" expanded="true" />
-                <element signature="e#466#467#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="133">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -176,20 +247,23 @@
         <option value="$PROJECT_DIR$/src/cn/dingwei/factory/MingJi.java" />
         <option value="$PROJECT_DIR$/src/cn/dingwei/factory/SanXing.java" />
         <option value="$PROJECT_DIR$/src/cn/dingwei/factory/Hp.java" />
-        <option value="$PROJECT_DIR$/src/cn/dingwei/simple/SimpleFactoryTest.java" />
         <option value="$PROJECT_DIR$/src/cn/dingwei/abstractfactory/AbstractXianShiQi.java" />
-        <option value="$PROJECT_DIR$/src/cn/dingwei/abstractfactory/XianShiQiFactoryTest.java" />
         <option value="$PROJECT_DIR$/src/cn/dingwei/Dell.java" />
         <option value="$PROJECT_DIR$/src/cn/dingwei/Hp.java" />
         <option value="$PROJECT_DIR$/src/cn/dingwei/MingJi.java" />
         <option value="$PROJECT_DIR$/src/cn/dingwei/SanXing.java" />
+        <option value="$PROJECT_DIR$/src/cn/dingwei/simple/SimpleFactory.java" />
+        <option value="$PROJECT_DIR$/src/cn/dingwei/simple/SimpleFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/dingwei/factory/LianxiangFactory.java" />
+        <option value="$PROJECT_DIR$/src/cn/dingwei/Hangjia.java" />
+        <option value="$PROJECT_DIR$/src/cn/dingwei/factory/Factory.java" />
+        <option value="$PROJECT_DIR$/src/cn/dingwei/factory/SanXingFactory.java" />
+        <option value="$PROJECT_DIR$/src/cn/dingwei/factory/HpFactory.java" />
+        <option value="$PROJECT_DIR$/src/cn/dingwei/factory/MingJiFactory.java" />
         <option value="$PROJECT_DIR$/src/cn/dingwei/abstractfactory/AbstractXianShiQiFactory.java" />
         <option value="$PROJECT_DIR$/src/cn/dingwei/abstractfactory/XianShiQiFactory.java" />
-        <option value="$PROJECT_DIR$/src/cn/dingwei/simple/SimpleFactory.java" />
-        <option value="$PROJECT_DIR$/src/cn/dingwei/factory/Factory.java" />
-        <option value="$PROJECT_DIR$/src/cn/dingwei/factory/HpFactory.java" />
-        <option value="$PROJECT_DIR$/src/cn/dingwei/factory/SanXingFactory.java" />
         <option value="$PROJECT_DIR$/src/cn/dingwei/factory/FactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/dingwei/abstractfactory/XianShiQiFactoryTest.java" />
       </list>
     </option>
   </component>
@@ -200,8 +274,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="62" />
-    <option name="y" value="272" />
+    <option name="x" value="20" />
+    <option name="y" value="40" />
     <option name="width" value="2520" />
     <option name="height" value="1200" />
   </component>
@@ -211,8 +285,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -245,28 +317,23 @@
               <item name="dingwei" type="462c0819:PsiDirectoryNode" />
               <item name="factory" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DW-pattern-factory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DW-pattern-factory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dingwei" type="462c0819:PsiDirectoryNode" />
-              <item name="simple" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542262586379" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543934789671" />
+    <property name="last_opened_file_path" value="D:/Users/Desktop/tom-space-master-70b87a81ae2ba268c3b914d49bf3b2a48b3c3c7b/gupaoedu-mybatis-master" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
     <property name="vcs.patch.to.clipboard" value="true" />
   </component>
   <component name="RecentsManager">
@@ -274,6 +341,9 @@
       <recent name="cn.dingwei.factory" />
       <recent name="cn.dingwei.abstractfactory" />
       <recent name="cn.dingwei.simple" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.dingwei" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -288,7 +358,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FactoryTest">
+  <component name="RunManager" selected="Application.XianShiQiFactoryTest">
     <configuration name="FactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.dingwei.factory.FactoryTest" />
       <module name="DW-pattern-factory" />
@@ -346,8 +416,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FactoryTest" />
         <item itemvalue="Application.XianShiQiFactoryTest" />
+        <item itemvalue="Application.FactoryTest" />
         <item itemvalue="Application.SimpleFactoryTest" />
       </list>
     </recent_temporary>
@@ -367,6 +437,13 @@
       <workItem from="1542114745342" duration="2457000" />
       <workItem from="1542158812264" duration="1099000" />
       <workItem from="1542252293857" duration="689000" />
+      <workItem from="1543489667231" duration="6772000" />
+      <workItem from="1543802925085" duration="1876000" />
+      <workItem from="1543915060577" duration="1001000" />
+      <workItem from="1543923347943" duration="1488000" />
+      <workItem from="1543929148178" duration="2896000" />
+      <workItem from="1543997887322" duration="603000" />
+      <workItem from="1544064353729" duration="102000" />
     </task>
     <task id="LOCAL-00001">
       <created>1542119621347</created>
@@ -379,12 +456,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10134000" />
+    <option name="totallyTimeSpent" value="24872000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25910932" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2825911" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -392,9 +469,9 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27531084" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32899627" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27509293" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.18959108" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -402,7 +479,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3291815" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32899627" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -439,17 +516,126 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/dingwei/factory/cn/dingwei/simple/SimpleFactory.java" />
-    <entry file="file://$PROJECT_DIR$/src/cn/dingwei/simple/SimpleFactoryTest.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/dingwei/factory/LianxiangFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/dingwei/simple/SimpleFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        <state relative-caret-position="361">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/dingwei/abstractfactory/XianShiQiFactoryTest.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/dingwei/MingJi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dingwei/Dell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/cn.dingwei.factory.HpFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>cn.dingwei.factory.HpFactory</OriginalElement>
+          <nodes>
+            <node x="" y="">cn.dingwei.factory.HpFactory</node>
+            <node x="" y="">cn.dingwei.factory.Factory</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="54.0" y="56.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/cn.dingwei.abstractfactory.XianShiQiFactoryTest">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>cn.dingwei.abstractfactory.XianShiQiFactoryTest</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">cn.dingwei.abstractfactory.XianShiQiFactoryTest</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="86.0" y="27.0" />
+          <SelectedNodes>
+            <node>cn.dingwei.abstractfactory.XianShiQiFactoryTest</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dingwei/simple/SimpleFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dingwei/Hp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/cn.dingwei.Hp">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>cn.dingwei.Hp</OriginalElement>
+          <nodes>
+            <node x="370.0" y="104.0">cn.dingwei.Hp</node>
+            <node x="185.0" y="0.0">cn.dingwei.XianShiQi</node>
+            <node x="185.0" y="104.0">cn.dingwei.Dell</node>
+            <node x="0.0" y="104.0">cn.dingwei.Hangjia</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="cn.dingwei.Dell" target="cn.dingwei.XianShiQi">
+              <point x="0.0" y="-27.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="cn.dingwei.Hangjia" target="cn.dingwei.XianShiQi">
+              <point x="0.0" y="-27.0" />
+              <point x="82.5" y="79.0" />
+              <point x="212.5" y="79.0" />
+              <point x="-55.0" y="27.0" />
+            </edge>
+            <edge source="cn.dingwei.Hp" target="cn.dingwei.XianShiQi">
+              <point x="0.0" y="-27.0" />
+              <point x="452.5" y="79.0" />
+              <point x="322.5" y="79.0" />
+              <point x="55.0" y="27.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-89.0" y="78.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
@@ -462,50 +648,104 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/dingwei/SanXing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        <state relative-caret-position="133">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/cn.dingwei.abstractfactory.AbstractXianShiQiFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>cn.dingwei.abstractfactory.AbstractXianShiQiFactory</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">cn.dingwei.abstractfactory.AbstractXianShiQiFactory</node>
+            <node x="0.0" y="242.0">cn.dingwei.abstractfactory.XianShiQiFactory</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="cn.dingwei.abstractfactory.XianShiQiFactory" target="cn.dingwei.abstractfactory.AbstractXianShiQiFactory">
+              <point x="0.0" y="-84.5" />
+              <point x="0.0" y="96.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-110.0" y="290.0" />
+          <SelectedNodes>
+            <node>cn.dingwei.abstractfactory.XianShiQiFactory</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dingwei/abstractfactory/XianShiQiFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+          <folding>
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dingwei/abstractfactory/AbstractXianShiQiFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dingwei/Hangjia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/dingwei/factory/Factory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/dingwei/simple/SimpleFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/dingwei/Dell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/dingwei/Hp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="3" />
-          <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="247">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/dingwei/factory/HpFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        <state relative-caret-position="247">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dingwei/factory/FactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dingwei/factory/MingJiFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -514,40 +754,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/dingwei/factory/SanXingFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        <state relative-caret-position="133">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/dingwei/MingJi.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/dingwei/abstractfactory/XianShiQiFactoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/dingwei/abstractfactory/AbstractXianShiQiFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/dingwei/abstractfactory/XianShiQiFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="5" selection-start-line="5" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-          <folding>
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/dingwei/factory/FactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="209">
+          <caret line="11" column="1" selection-end-line="12" />
         </state>
       </provider>
     </entry>

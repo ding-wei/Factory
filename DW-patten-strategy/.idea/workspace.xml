@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b34474e4-932b-4c6d-958e-ec3834595afd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../DW-pattern-delegate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-delegate/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DW-pattern-delegate/out/production/DW-pattern-delegate/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DW-pattern-delegate/out/production/DW-pattern-delegate/com/dw/delegate/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-delegate/out/production/DW-pattern-delegate/com/dw/delegate/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DW-pattern-delegate/out/production/DW-pattern-delegate/com/dw/delegate/Waiter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-delegate/out/production/DW-pattern-delegate/com/dw/delegate/Waiter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DW-pattern-delegate/src/com/dw/delegate/Waiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-delegate/src/com/dw/delegate/Waiter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-decorter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-decorter/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,10 +16,11 @@
     <session id="-1416701565">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -101,8 +99,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/strategy/VehicleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+            <state relative-caret-position="247">
+              <caret line="13" column="11" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -158,8 +156,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="54" />
-    <option name="y" value="282" />
+    <option name="x" value="20" />
+    <option name="y" value="40" />
     <option name="width" value="2520" />
     <option name="height" value="1200" />
   </component>
@@ -169,8 +167,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,17 +185,26 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="strategy" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DW-patten-strategy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DW-patten-strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="vehicle" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542855654822" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DW-pattern-factory" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -262,16 +267,17 @@
       <updated>1542608491375</updated>
       <workItem from="1542608495864" duration="8435000" />
       <workItem from="1542854600611" duration="1175000" />
+      <workItem from="1543488847723" duration="815000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9610000" />
+    <option name="totallyTimeSpent" value="10425000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25263157" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25668016" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -361,8 +367,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dw/pattern/strategy/VehicleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        <state relative-caret-position="247">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

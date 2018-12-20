@@ -5,7 +5,8 @@ import cn.dingwei.factory.*;
 public class XianShiQiFactoryTest {
     public static void main(String[] args) {
         XianShiQiFactory xianShiQiFactory = new XianShiQiFactory();
-        System.out.println(xianShiQiFactory.getDell());
+        //获取航嘉显示器
+        System.out.println("我想要"+xianShiQiFactory.getDell().getName());
 
     }
 }

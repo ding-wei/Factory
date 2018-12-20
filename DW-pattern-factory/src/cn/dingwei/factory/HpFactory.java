@@ -15,4 +15,6 @@ public class HpFactory implements Factory{
     public XianShiQi getXianShiQi() {
         return new Hp();
     }
+
+
 }

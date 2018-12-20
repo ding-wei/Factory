@@ -16,4 +16,6 @@ public class SanXingFactory implements Factory{
     public XianShiQi getXianShiQi() {
         return new Hp();
     }
+
+
 }

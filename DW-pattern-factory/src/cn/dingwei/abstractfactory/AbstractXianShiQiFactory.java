@@ -11,4 +11,12 @@ public abstract class AbstractXianShiQiFactory {
    abstract XianShiQi getSanxing();
    abstract XianShiQi getDell();
    abstract XianShiQi getHp();
+   abstract  XianShiQi getHangjia();
+   //增加航嘉显示器
+   abstract  XianShiQi getHangJia();
+
+
+   public void aa(){
+       System.out.println("32423423");
+   }
 }

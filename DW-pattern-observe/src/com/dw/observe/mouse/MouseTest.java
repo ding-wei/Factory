@@ -12,7 +12,7 @@ import java.lang.reflect.Method;
  */
 public class MouseTest {
 
-    public static void main(String[] args) {
+    public static void main2(String[] args) {
 
         try {
 
@@ -28,7 +28,7 @@ public class MouseTest {
 
 
     }
-    public static void main1(String[] args) {
+    public static void main(String[] args) {
 
         try {
            MouseEventCallback callback = new MouseEventCallback();

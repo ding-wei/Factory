@@ -26,4 +26,14 @@ public class XianShiQiFactory  extends AbstractXianShiQiFactory{
     XianShiQi getHp() {
         return new Hp();
     }
+
+    @Override
+    XianShiQi getHangjia() {
+        return new Hangjia();
+    }
+
+    @Override
+    XianShiQi getHangJia() {
+        return new Hangjia();
+    }
 }

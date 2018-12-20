@@ -11,5 +11,6 @@ public interface Factory {
      * 获得显示器
      * @return
      */
- XianShiQi getXianShiQi();
+  XianShiQi getXianShiQi();
+
 }

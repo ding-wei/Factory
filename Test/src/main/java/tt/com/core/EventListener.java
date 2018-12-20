@@ -20,7 +20,7 @@ public class EventListener {
     }
 
     private void trigger(Event event) {
-        event.setSource("souce1");
+      //  event.setSource("souce1");
         event.setTime(System.currentTimeMillis());
         try {
             //获得回调方法

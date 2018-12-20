@@ -2,7 +2,9 @@ package cn.dingwei.factory;
 
 public class FactoryTest {
     public static void main(String[] args) {
-        Factory factory = new HpFactory();
-        System.out.println(factory.getXianShiQi().getName());
+
+        //Spring bean 来配置
+        Factory factory = new MingJiFactory();
+    System.out.println(factory.getXianShiQi().getName());
     }
 }

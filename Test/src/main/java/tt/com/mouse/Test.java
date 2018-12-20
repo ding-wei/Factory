@@ -9,7 +9,7 @@ import java.lang.reflect.Method;
  */
 public class Test {
 
-    public static void main(String[] args) {
+    public static void main1(String[] args) {
         //通知目标
         MouseEventCallback callbackTarget=new MouseEventCallback();
         //回调方法
@@ -22,5 +22,15 @@ public class Test {
         Mouse mouse=new Mouse();
         mouse.addListenner(MouseEventType.ON_CLICK,callbackTarget,method);
         mouse.onClick();
+    }
+    static int value = 33;
+
+    public static void main(String[] args) throws Exception{
+        new Test().printValue();
+    }
+
+    private void printValue(){
+        int value = 3;
+        System.out.println(value);
     }
 }

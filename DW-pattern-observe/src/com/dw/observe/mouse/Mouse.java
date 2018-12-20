@@ -5,7 +5,7 @@ import com.dw.observe.core.EventLisenter;
 public class Mouse  extends EventLisenter {
     public void click(){
         System.out.println("鼠标单击");
-
+       // this.trigger(MouseEventType.ON_CLICK);
     }
 
 

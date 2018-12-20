@@ -2,58 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b579b531-1eec-4116-9b06-fe0426d94608" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/asm-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/cglib-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/observe/ab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/observe/core/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/observe/core/EventLisenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/observe/mouse/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/observe/mouse/MouseEventCallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/observe/mouse/MouseEventType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/observe/mouse/MouseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dw/observe/proxy/MouseProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/lib/asm-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/lib/cglib-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/core/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/core/EventLisenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/mouse/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/mouse/MouseEventCallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/mouse/MouseEventType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/mouse/MouseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/subject/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/subject/ObserverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/subject/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/subject/SubjectEventType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/test/Aa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/com/dw/observer/test/Ceshi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/core/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/core/EventListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/core/EventType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/mouse/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/mouse/MouseEventCallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/mouse/MouseEventType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/mouse/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/mouse/cgproxy/CGProxyMouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/mouse/cgproxy/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/subcgproxy/ProxyForObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/subcgproxy/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/subject/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/subject/ObserverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/subject/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/subject/SubjectEventType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DWTestMybatis/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DWTestMybatis/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DWTestMybatis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DWTestMybatis/src/main/java/cn/dw/mybatis/typehandle/TestHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DWTestMybatis/src/main/resources/mybatis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DW-patten-strategy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-patten-strategy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DW-pattern-delegate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-delegate/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DW-pattern-delegate/out/production/DW-pattern-delegate/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DW-pattern-delegate/out/production/DW-pattern-delegate/com/dw/delegate/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-delegate/out/production/DW-pattern-delegate/com/dw/delegate/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DW-pattern-delegate/out/production/DW-pattern-delegate/com/dw/delegate/Waiter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-delegate/out/production/DW-pattern-delegate/com/dw/delegate/Waiter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DW-pattern-delegate/src/com/dw/delegate/Waiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-delegate/src/com/dw/delegate/Waiter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-decorter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-decorter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-factory/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-factory/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-factory/out/production/DW-pattern-factory/cn/dingwei/simple/SimpleFactoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-factory/out/production/DW-pattern-factory/cn/dingwei/simple/SimpleFactoryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-factory/src/cn/dingwei/abstractfactory/XianShiQiFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-factory/src/cn/dingwei/abstractfactory/XianShiQiFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-factory/src/cn/dingwei/factory/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-factory/src/cn/dingwei/factory/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-factory/src/cn/dingwei/factory/FactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-factory/src/cn/dingwei/factory/FactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-factory/src/cn/dingwei/factory/HpFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-factory/src/cn/dingwei/factory/HpFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DW-pattern-factory/src/cn/dingwei/simple/SimpleFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-factory/src/cn/dingwei/simple/SimpleFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dw/observe/mouse/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dw/observe/mouse/Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dw/observe/mouse/MouseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dw/observe/mouse/MouseTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DW-pattern-proxy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-proxy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DW-pattern-proxy/out/production/DW-pattern-proxy/com/dw/cglib/CgLibTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-proxy/out/production/DW-pattern-proxy/com/dw/cglib/CgLibTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DW-pattern-proxy/out/production/DW-pattern-proxy/com/dw/cglib/CglibDWProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-proxy/out/production/DW-pattern-proxy/com/dw/cglib/CglibDWProxy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DW-pattern-proxy/out/production/DW-pattern-proxy/com/dw/test/mian.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-proxy/out/production/DW-pattern-proxy/com/dw/test/mian.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/cglib/CgLibTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/cglib/CgLibTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/cglib/CglibDWProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DW-pattern-proxy/src/com/dw/cglib/CglibDWProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/main/java/tt/com/core/EventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/core/EventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/main/java/tt/com/mouse/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/mouse/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/main/java/tt/com/subcgproxy/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/main/java/tt/com/subcgproxy/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/dw/observer/core/Event.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/dw/observer/core/EventLisenter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/dw/observer/mouse/Mouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/dw/observer/mouse/MouseEventCallback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/dw/observer/mouse/MouseEventType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/dw/observer/mouse/MouseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/dw/observer/subject/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/dw/observer/subject/ObserverTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/dw/observer/subject/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/dw/observer/subject/SubjectEventType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/dw/observer/test/Aa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/com/dw/observer/test/Ceshi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/core/Event.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/core/EventListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/core/EventType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/mouse/Mouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/mouse/MouseEventCallback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/mouse/MouseEventType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/mouse/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/mouse/cgproxy/CGProxyMouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/mouse/cgproxy/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/subcgproxy/ProxyForObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/subcgproxy/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/subject/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/subject/ObserverTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/subject/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/target/classes/tt/com/subject/SubjectEventType.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,32 +64,32 @@
     <session id="-1688257682">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="14" />
+          <entry key="java" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="14" />
+          <entry key="JAVA" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="814" />
+          <entry key="java" value="818" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="814" />
+          <entry key="JAVA" value="818" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
@@ -116,8 +114,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dw/observe/core/Event.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="38" column="23" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="23" />
+            <state relative-caret-position="57">
+              <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="26" />
               <folding>
                 <element signature="e#698#699#0" expanded="true" />
                 <element signature="e#729#730#0" expanded="true" />
@@ -130,16 +128,16 @@
         <entry file="file://$PROJECT_DIR$/src/com/dw/observe/mouse/MouseEventType.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
+              <caret column="29" selection-start-column="29" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dw/observe/mouse/MouseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="209">
+              <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -148,10 +146,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Class.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="1784" column="29" lean-forward="true" selection-start-line="1784" selection-start-column="29" selection-end-line="1784" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dw/observe/proxy/MouseProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+            <state relative-caret-position="627">
+              <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -163,16 +170,16 @@
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/EventListener.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/dw/observe/mouse/Mouse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="190">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -180,8 +187,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dw/observe/core/EventLisenter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="31" column="53" lean-forward="true" selection-start-line="29" selection-start-column="10" selection-end-line="31" selection-end-column="53" />
+            <state relative-caret-position="251">
+              <caret line="31" column="67" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -210,13 +217,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/dw/observe/core/Event.java" />
         <option value="$PROJECT_DIR$/src/com/dw/observe/mouse/MouseEventType.java" />
         <option value="$PROJECT_DIR$/src/com/dw/observe/mouse/MouseEventCallback.java" />
         <option value="$PROJECT_DIR$/src/com/dw/observe/core/EventLisenter.java" />
-        <option value="$PROJECT_DIR$/src/com/dw/observe/mouse/Mouse.java" />
-        <option value="$PROJECT_DIR$/src/com/dw/observe/mouse/MouseTest.java" />
         <option value="$PROJECT_DIR$/src/com/dw/observe/proxy/MouseProxy.java" />
+        <option value="$PROJECT_DIR$/src/com/dw/observe/mouse/MouseTest.java" />
+        <option value="$PROJECT_DIR$/src/com/dw/observe/mouse/Mouse.java" />
+        <option value="$PROJECT_DIR$/src/com/dw/observe/core/Event.java" />
       </list>
     </option>
   </component>
@@ -242,7 +249,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -275,25 +282,18 @@
               <item name="observe" type="462c0819:PsiDirectoryNode" />
               <item name="mouse" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DW-pattern-observe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DW-pattern-observe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="observe" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543068674668" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DW-pattern-proxy" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543800761499" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -370,16 +370,17 @@
       <workItem from="1543041849066" duration="2584000" />
       <workItem from="1543064502172" duration="2843000" />
       <workItem from="1543067412572" duration="1278000" />
+      <workItem from="1543800166673" duration="613000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16081000" />
+    <option name="totallyTimeSpent" value="16694000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49814126" visible="true" weight="0.25910932" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49814126" visible="true" weight="0.2631579" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -419,28 +420,10 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/dw/observe/core/EventLisenter.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/dw/observe/mouse/MouseTest.java</url>
-          <line>33</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/dw/observe/mouse/MouseEventCallback.java</url>
           <line>10</line>
           <properties />
           <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/dw/observe/core/EventLisenter.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -454,28 +437,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Class.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dw/observe/mouse/MouseEventType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="1780" column="18" selection-start-line="1780" selection-start-column="18" selection-end-line="1780" selection-end-column="18" />
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/EventListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dw/observe/core/Event.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dw/observe/proxy/MouseProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="38" column="23" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="23" />
+        <state relative-caret-position="627">
+          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
           <folding>
-            <element signature="e#698#699#0" expanded="true" />
-            <element signature="e#729#730#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="1784" column="29" lean-forward="true" selection-start-line="1784" selection-start-column="29" selection-end-line="1784" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -486,47 +475,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dw/observe/core/EventLisenter.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dw/observe/mouse/MouseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="31" column="53" lean-forward="true" selection-start-line="29" selection-start-column="10" selection-end-line="31" selection-end-column="53" />
+        <state relative-caret-position="209">
+          <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dw/observe/core/EventLisenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="31" column="67" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dw/observe/core/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dw/observe/mouse/Mouse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dw/observe/mouse/MouseEventType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dw/observe/proxy/MouseProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dw/observe/mouse/MouseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
