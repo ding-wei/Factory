@@ -24,7 +24,7 @@ public class Event {
         this.callback = callback;
     }
 
-     //测试提交一下
+
     public Object getSource() {
         return source;
     }
